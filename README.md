@@ -1,9 +1,5 @@
 # Earbuds Promotional Page
 
-<div align="center">
-    <img src="/images/memoji_heart.png" alt="MeMoji Heart" width="250" height="250">
-</div>
-
 ## :8ball: About
 
 This is a starter page for initializing the Earbuds Promotional Page Project. What has been done is a responsive page using grid.css with placeholder content that will accurately reflect the final assets.
